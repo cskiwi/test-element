@@ -1,0 +1,19 @@
+{
+  "name": "test-element",
+  "version": "0.0.0",
+  "authors": [
+    "Glenn Latomme <glenn.latomme@gmail.com>"
+  ],
+  "description": "Element providing solution to no problem in particular.",
+  "keywords": "seed, polymer, web-components",
+  "main": "test-element.html",
+  "license": "MIT",
+  "homepage": "https://github.com/cskiwi/test-element/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.3",
+    "polymer-test-tools": "Polymer/polymer-test-tools#~0.3.3"
+  }
+}

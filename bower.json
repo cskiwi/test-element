@@ -1,0 +1,7 @@
+{
+  "name": "test-element#gh-pages",
+  "private": true,
+  "dependencies": {
+    "test-element": "cskiwi/test-element#master"
+  }
+}
